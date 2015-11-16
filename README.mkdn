@@ -1,0 +1,8 @@
+Attention all device maintainers
+As some of you'll know, recently we added an OTACenter app into RR
+We want to make it available for all of you to use to push updates to your users
+So please post your github username in the comments so we can add you to give you access to edit the xml required for ota app to function
+
+Go here http://cyanpop-ota-server.github.io
+
+
