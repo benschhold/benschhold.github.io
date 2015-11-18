@@ -1,5 +1,4 @@
 <OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-
 <Stable>
 <thea>
 <Filename>cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151118</Filename>
@@ -8,7 +7,6 @@ https://goo.gl/3W6Qo7
 </DownloadUrl>
 </thea>
 </Stable>
-
 <Stable>
 <titan>
 <Filename>cyanpop_titan-mm_6.0-1.0-NIGHTLY-20151118</Filename>
@@ -17,7 +15,6 @@ https://goo.gl/MViKwD
 </DownloadUrl>
 </titan>
 </Stable>
-
 <Stable>
 <falcon>
 <Filename>cyanpop_falcon-mm_6.0-1.0-NIGHTLY-20151118</Filename>
@@ -26,7 +23,6 @@ https://goo.gl/dkGljl
 </DownloadUrl>
 </falcon>
 </Stable>
-
 </OTACenter>
 
 
