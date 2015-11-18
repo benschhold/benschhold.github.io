@@ -1,28 +1,32 @@
 <OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+
 <Stable>
 <thea>
-<Filename>cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151118</Filename>
+<Filename>cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151118.zip</Filename>
 <DownloadUrl>
-https://goo.gl/3W6Qo7
+https://s.basketbuild.com/filedl/devs?dev=RolanDroid&dl=RolanDroid/CyanPop/falcon/cyanpop_falcon-mm_6.0-1.0-NIGHTLY-20151119.zip
 </DownloadUrl>
 </thea>
 </Stable>
+
 <Stable>
 <titan>
-<Filename>cyanpop_titan-mm_6.0-1.0-NIGHTLY-20151118</Filename>
+<Filename>cyanpop_titan-mm_6.0-1.0-NIGHTLY-20151118.zip</Filename>
 <DownloadUrl>
-https://goo.gl/MViKwD
+https://goo.gl/yQ1ln7
 </DownloadUrl>
 </titan>
 </Stable>
+
 <Stable>
 <falcon>
 <Filename>cyanpop_falcon-mm_6.0-1.0-NIGHTLY-20151118</Filename>
 <DownloadUrl>
-https://goo.gl/dkGljl
+https://goo.gl/yYVkqw
 </DownloadUrl>
 </falcon>
 </Stable>
+
 </OTACenter>
 
 
