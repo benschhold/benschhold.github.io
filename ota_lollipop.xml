@@ -2,7 +2,7 @@
 <CyanPopOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <thea>
-            <Filename>cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151123.zip</Filename>
+            <Filename>cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151123</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
