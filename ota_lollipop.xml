@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/filedl/devs?dev=RolanDroid&amp;dl=RolanDroid/CyanPop/thea/cyanpop_thea-mm_6.0-2.0-NIGHTLY-20151122.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/filedl/devs?dev=RolanDroid&amp;dl=RolanDroid/CyanPop/thea/cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151122.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -50,7 +50,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/filedl/devs?dev=RolanDroid&amp;dl=RolanDroid/CyanPop/falcon/cyanpop_falcon-mm_6.0-1.0-NIGHTLY-20151122.zip </RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/filedl/devs?dev=RolanDroid&amp;dl=RolanDroid/CyanPop/falcon/cyanpop_falcon-mm_6.0-1.0-NIGHTLY-20151122.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
