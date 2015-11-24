@@ -1,11 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <!-- CyanPop -->
-  <RomName>CyanPop</RomName>
-  <VersionName>cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151124.zip</VersionName>
-  <VersionNumber type="integer">20151124</VersionNumber>
-  <DirectUrl>https://s.basketbuild.com/filedl/devs?dev=RolanDroid&amp;dl=RolanDroid/CyanPop/thea/cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151124.zip</DirectUrl>
-  <Android>6.0</Android>
-  <Developer>RolanDroid</Developer>
-  <DonateURL>DONATE URL HERE</DonateURL>
-</ROM>
+<OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+
+<Stable>
+<thea>
+<Filename>cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151124.zip</Filename>
+<DownloadUrl>
+https://s.basketbuild.com/filedl/devs?dev=RolanDroid&amp;dl=RolanDroid/CyanPop/thea/cyanpop_thea-mm_6.0-1.0-NIGHTLY-20151124.zip 
+</DownloadUrl>
+</thea>
+</Stable>
+
+<Stable>
+<titan>
+<Filename>cyanpop_titan-mm_6.0-1.0-NIGHTLY-20151123.zip</Filename>
+<DownloadUrl>
+https://s.basketbuild.com/filedl/devs?dev=RolanDroid&amp;dl=RolanDroid/CyanPop/titan/cyanpop_titan-mm_6.0-1.0-NIGHTLY-20151123.zip 
+</DownloadUrl>
+</titan>
+</Stable>
+
+<Stable>
+<falcon>
+<Filename>cyanpop_falcon-mm_6.0-1.0-NIGHTLY-20151123.zip</Filename>
+<DownloadUrl>
+https://s.basketbuild.com/filedl/devs?dev=RolanDroid&amp;dl=RolanDroid/CyanPop/falcon/cyanpop_falcon-mm_6.0-1.0-NIGHTLY-20151123.zip 
+</DownloadUrl>
+</falcon>
+</Stable>
+
+<Stable>
+<peregrine>
+<Filename>cyanpop_peregrine-mm_6.0-1.0-NIGHTLY-20151123.zip</Filename>
+<DownloadUrl>
+https://s.basketbuild.com/filedl/devs?dev=RolanDroid&amp;dl=RolanDroid/CyanPop/peregrine/cyanpop_peregrine-mm_6.0-1.0-NIGHTLY-20151123.zip 
+</DownloadUrl>
+</peregrine>
+</Stable>
+
+</OTACenter>
