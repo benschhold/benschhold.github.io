@@ -2,11 +2,11 @@
 <CyanPopOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <thea>
-            <Filename>cyanpop_thea-MM_6.0.1-4.4-NIGHTLY-20151217</Filename>
+            <Filename>cyanpop_thea-MM_6.0.1-4.5-NIGHTLY-20151220</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-MM_6.0.1-4.4-NIGHTLY-20151217.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-MM_6.0.1-4.5-NIGHTLY-20151220.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -24,11 +24,11 @@
 
     <Stable>
         <titan>
-            <Filename>cyanpop_titan-MM_6.0.1-4.4-NIGHTLY-20151217</Filename>
+            <Filename>cyanpop_titan-MM_6.0.1-4.5-NIGHTLY-20151220</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-4.4-NIGHTLY-20151217.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-4.5-NIGHTLY-20151220.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -46,11 +46,11 @@
 
     <Stable>
         <falcon>
-            <Filename>cyanpop_falcon-MM_6.0.1-4.4-NIGHTLY-20151217</Filename>
+            <Filename>cyanpop_falcon-MM_6.0.1-4.2-NIGHTLY-20151220</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/falcon/cyanpop_falcon-MM_6.0.1-4.4-NIGHTLY-20151217.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/falcon/cyanpop_falcon-MM_6.0.1-4.5-NIGHTLY-20151220.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -68,11 +68,11 @@
 
     <Stable>
         <peregrine>
-            <Filename>cyanpop_peregrine-MM_6.0.1-4.4-NIGHTLY-20151217</Filename>
+            <Filename>cyanpop_peregrine-MM_6.0.1-4.5-NIGHTLY-20151220</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-4.4-NIGHTLY-20151217.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-4.5-NIGHTLY-20151220.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
