@@ -110,5 +110,26 @@
     </i9300>
     </Stable>
 
+    <Stable>
+        <condor>
+            <Filename>cyanpop_condor-MM_6.0.1-4.5-NIGHTLY-20151224</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-MM_6.0.1-4.5-NIGHTLY-20151224.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Look CyanPop changelogs">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest OpenGapps">http://opengapps.org/</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit CyanPop Moto E thread">http://forum.xda-developers.com/moto-e/development/rom-cyanpop-v4-5-t3277764</XDAUrl>
+    </condor>
+    </Stable>
 
 </CyanPopOTA>
