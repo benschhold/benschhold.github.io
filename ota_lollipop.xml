@@ -24,11 +24,11 @@
 
     <Stable>
         <titan>
-            <Filename>cyanpop_titan-MM_6.0.1-4.6-NIGHTLY-20151228</Filename>
+            <Filename>cyanpop_titan-MM_6.0.1-4.7-NIGHTLY-20151230</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-4.6-NIGHTLY-20151228.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-4.7-NIGHTLY-20151230.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
