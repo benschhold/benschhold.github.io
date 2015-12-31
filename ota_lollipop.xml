@@ -194,8 +194,31 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit CyanPop Moto E 2015 thread">http://forum.xda-developers.com/moto-e-2015/development/rom-cyanpop-v4-5-t3276669</XDAUrl>
+                description="Visit CyanPop OnePlusOne thread">http://forum.xda-developers.com/oneplus-one/development/rom-cyanpop-v4-6-t3279829</XDAUrl>
     </bacon>
     </Stable>
+
+    <Stable>
+        <hammerhead>
+            <Filename>cyanpop_hammerhead-MM_6.0.1-4.7-NIGHTLY-20151231</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/hammerhead/cyanpop_hammerhead-MM_6.0.1-4.7-NIGHTLY-20151231.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Look CyanPop changelogs">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest OpenGapps">http://opengapps.org/</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit CyanPop Moto E 2015 thread">http://forum.xda-developers.com/moto-e-2015/development/rom-cyanpop-v4-5-t3276669</XDAUrl>
+    </hammerhead>
+    </Stable>
+
 
 </CyanPopOTA>
