@@ -18,17 +18,17 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit Moto G 2014 LTE xda thread">http://forum.xda-developers.com/moto-g-lte/development/rom-cyanpop-v1-0-t3259425</XDAUrl>
+                description="Visit Moto G 2014 LTE xda thread">http://forum.xda-developers.com/moto-g-lte/development/rom-cyanpop-v1-0-t3249424</XDAUrl>
     </thea>
     </Stable>
 
     <Stable>
         <titan>
-            <Filename>cyanpop_titan-MM_6.0.1-5.3-NIGHTLY-20160125</Filename>
+            <Filename>cyanpop_titan-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-5.3-NIGHTLY-20160125.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -40,17 +40,17 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit Moto G 2014 xda thread">http://forum.xda-developers.com/moto-g-2014/development/rom-cyanpop-v1-0-t3259423</XDAUrl>
+                description="Visit Moto G 2014 xda thread">http://forum.xda-developers.com/moto-g-2014/development/rom-cyanpop-v1-0-t3249423</XDAUrl>
     </titan>
     </Stable>
 
     <Stable>
         <falcon>
-            <Filename>cyanpop_falcon-MM_6.0.1-5.3-NIGHTLY-20160125</Filename>
+            <Filename>cyanpop_falcon-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/falcon/cyanpop_falcon-MM_6.0.1-5.3-NIGHTLY-20160125.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/falcon/cyanpop_falcon-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -62,17 +62,17 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit Moto G xda thread">http://forum.xda-developers.com/moto-g/development/rom-cyanpop-v1-0-t3250449</XDAUrl>
+                description="Visit Moto G xda thread">http://forum.xda-developers.com/moto-g/development/rom-cyanpop-v1-0-t3240449</XDAUrl>
     </falcon>
     </Stable>
 
     <Stable>
         <peregrine>
-            <Filename>cyanpop_peregrine-MM_6.0.1-5.3-NIGHTLY-20160125</Filename>
+            <Filename>cyanpop_peregrine-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-5.3-NIGHTLY-20160125.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -84,17 +84,17 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit Moto G 4G xda thread">http://forum.xda-developers.com/moto-g/4g-development/rom-cyanpop-v1-0-t3253079</XDAUrl>
+                description="Visit Moto G 4G xda thread">http://forum.xda-developers.com/moto-g/4g-development/rom-cyanpop-v1-0-t3243079</XDAUrl>
     </peregrine>
     </Stable>
 
     <Stable>
         <i9300>
-            <Filename>cyanpop_i9300-MM_6.0.1-5.3-NIGHTLY-20160125</Filename>
+            <Filename>cyanpop_i9300-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/i9300/cyanpop_i9300-MM_6.0.1-5.3-NIGHTLY-20160125.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/i9300/cyanpop_i9300-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -112,11 +112,11 @@
 
     <Stable>
         <condor>
-            <Filename>cyanpop_condor-MM_6.0.1-5.3-NIGHTLY-20160125</Filename>
+            <Filename>cyanpop_condor-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-MM_6.0.1-5.3-NIGHTLY-20160125.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -134,11 +134,11 @@
 
     <Stable>
         <victara>
-            <Filename>cyanpop_victara-MM_6.0.1-5.3-NIGHTLY-20160125</Filename>
+            <Filename>cyanpop_victara-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/victara/cyanpop_victara-MM_6.0.1-5.3-NIGHTLY-20160125.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/victara/cyanpop_victara-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -156,11 +156,11 @@
 
     <Stable>
         <otus>
-            <Filename>cyanpop_otus-MM_6.0.1-5.3-NIGHTLY-20160125</Filename>
+            <Filename>cyanpop_otus-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/otus/cyanpop_otus-MM_6.0.1-5.3-NIGHTLY-20160125.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/otus/cyanpop_otus-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -178,11 +178,11 @@
 
     <Stable>
         <bacon>
-            <Filename>cyanpop_bacon-MM_6.0.1-5.3-NIGHTLY-20160125</Filename>
+            <Filename>cyanpop_bacon-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/bacon/cyanpop_bacon-MM_6.0.1-5.3-NIGHTLY-20160125.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/bacon/cyanpop_bacon-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
