@@ -68,11 +68,11 @@
 
     <Stable>
         <peregrine>
-            <Filename>cyanpop_peregrine-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
+            <Filename>cyanpop_peregrine-MM_6.0.1-5.4-NIGHTLY-20160129</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-5.4-NIGHTLY-20160129.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -112,11 +112,11 @@
 
     <Stable>
         <condor>
-            <Filename>cyanpop_condor-MM_6.0.1-5.3-NIGHTLY-20160124</Filename>
+            <Filename>cyanpop_condor-MM_6.0.1-5.4-NIGHTLY-20160129</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-MM_6.0.1-5.3-NIGHTLY-20160124.zip</RomUrl>
+                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-MM_6.0.1-5.4-NIGHTLY-20160129.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
