@@ -7,10 +7,6 @@
                 id="rom"
                 title="Download The Latest Build"
                 description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
