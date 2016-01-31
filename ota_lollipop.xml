@@ -5,20 +5,20 @@
             <Filename>cyanpop_thea-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org</GappsUrl>
+                description="">http://opengapps.org</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Moto G 2014 LTE XDA Thread">http://goo.gl/bDp5dI</XDAUrl>
+                description="">>http://goo.gl/bDp5dI</XDAUrl>
     </thea>
     </Stable>
 
@@ -27,20 +27,20 @@
             <Filename>cyanpop_titan-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Moto G 2014 XDA Thread">http://goo.gl/qDZFHL</XDAUrl>
+                description="">http://goo.gl/qDZFHL</XDAUrl>
     </titan>
     </Stable>
 
@@ -49,20 +49,20 @@
             <Filename>cyanpop_falcon-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/falcon/cyanpop_falcon-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/falcon/cyanpop_falcon-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Moto G XDA Thread">http://goo.gl/wCCkT5</XDAUrl>
+                description="">http://goo.gl/wCCkT5</XDAUrl>
     </falcon>
     </Stable>
 
@@ -71,20 +71,20 @@
             <Filename>cyanpop_peregrine-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Moto G 4G XDA Thread">http://goo.gl/3PeF6I</XDAUrl>
+                description="">http://goo.gl/3PeF6I</XDAUrl>
     </peregrine>
     </Stable>
 
@@ -93,20 +93,20 @@
             <Filename>cyanpop_i9300-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/i9300/cyanpop_i9300-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/i9300/cyanpop_i9300-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Samsung galaxy S3 XDA Thread">http://goo.gl/yW3snJ</XDAUrl>
+                description="">http://goo.gl/yW3snJ</XDAUrl>
     </i9300>
     </Stable>
 
@@ -115,20 +115,20 @@
             <Filename>cyanpop_condor-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Moto E XDA Thread">http://goo.gl/MoQNfV</XDAUrl>
+                description="">http://goo.gl/MoQNfV</XDAUrl>
     </condor>
     </Stable>
 
@@ -137,20 +137,20 @@
             <Filename>cyanpop_victara-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/victara/cyanpop_victara-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/victara/cyanpop_victara-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Moto X 2014 XDA Thread">http://goo.gl/iDTDXB</XDAUrl>
+                description="">http://goo.gl/iDTDXB</XDAUrl>
     </victara>
     </Stable>
 
@@ -159,20 +159,20 @@
             <Filename>cyanpop_otus-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/otus/cyanpop_otus-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/otus/cyanpop_otus-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Moto E 2015 XDA Thread">http://goo.gl/9eQWce</XDAUrl>
+                description="">http://goo.gl/9eQWce</XDAUrl>
     </otus>
     </Stable>
 
@@ -181,20 +181,20 @@
             <Filename>cyanpop_bacon-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/bacon/cyanpop_bacon-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/bacon/cyanpop_bacon-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="OnePlus One XDA thread">http://goo.gl/73HjHq</XDAUrl>
+                description="">http://goo.gl/73HjHq</XDAUrl>
     </bacon>
     </Stable>
 
@@ -203,20 +203,20 @@
             <Filename>cyanpop_onyx-MM_6.0.1-5.4-NIGHTLY-20160131</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/onyx/cyanpop_onyx-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/onyx/cyanpop_onyx-MM_6.0.1-5.4-NIGHTLY-20160131.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="OnePlus X XDA Thread">http://goo.gl/b4AwHK</XDAUrl>
+                description="">http://goo.gl/b4AwHK</XDAUrl>
     </onyx>
     </Stable>
 
@@ -225,20 +225,20 @@
             <Filename>cyanpop_hammerhead-MM_6.0.1-5.4-NIGHTLY-20160125</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/hammerhead/cyanpop_hammerhead-MM_6.0.1-5.4-NIGHTLY-20160125.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/hammerhead/cyanpop_hammerhead-MM_6.0.1-5.4-NIGHTLY-20160125.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Google Nexus 5 XDA Thread">http://goo.gl/cHW3ns</XDAUrl>
+                description="">http://goo.gl/cHW3ns</XDAUrl>
     </hammerhead>
     </Stable>
 
@@ -247,20 +247,20 @@
             <Filename>cyanpop_shamu-MM_6.0.1-5.4-NIGHTLY-20160125</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download the latest CyanPop build">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/shamu/cyanpop_shamu-MM_6.0.1-5.4-NIGHTLY-20160125.zip</RomUrl>
+                title="Download The Latest Build"
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/shamu/cyanpop_shamu-MM_6.0.1-5.4-NIGHTLY-20160125.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="OpenGapps">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Google Nexus 5 XDA Thread"></XDAUrl>
+                description=""></XDAUrl>
     </shamu>
     </Stable>
 
