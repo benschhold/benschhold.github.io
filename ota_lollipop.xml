@@ -10,10 +10,10 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
+                description="Changelog">http://pastebin.com/raw.php?i=Qz3Acg2X</ChangelogUrl>
             <GappsUrl
                 id="gapps"
-                title="OpenGapps"
+                title="Gapps"
                 description="OpenGapps">http://opengapps.org</GappsUrl>
             <XDAUrl
                 id="xda"
