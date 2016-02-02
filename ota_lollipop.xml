@@ -216,4 +216,22 @@
     </shamu>
     </Stable>
 
+    <Stable>
+        <oneplus2>
+            <Filename>cyanpop_oneplus2-MM_6.0.1-5.4-NIGHTLY-20160201</Filename>
+            <RomUrl
+                id="rom"
+                title="Download"
+                description="">https://www.androidfilehost.com/?fid=24399994186367063</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="">http://opengapps.org/</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description=""></XDAUrl>
+    </oneplus2>
+    </Stable>
+
 </CyanPopOTA>
