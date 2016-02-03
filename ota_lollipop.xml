@@ -2,11 +2,11 @@
 <CyanPopOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <thea>
-            <Filename>cyanpop_thea-MM_6.0.1-5.4-NIGHTLY-20160201</Filename>
+            <Filename>cyanpop_thea-MM_6.0.1-5.5-NIGHTLY-20160203</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-MM_6.0.1-5.4-NIGHTLY-20160201.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-MM_6.0.1-5.5-NIGHTLY-20160203.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
