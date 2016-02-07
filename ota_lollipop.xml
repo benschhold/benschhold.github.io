@@ -226,7 +226,7 @@
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="">http://opengapps.org/?arch=arm64&api=6.0/</GappsUrl>
+                description="">http://opengapps.org/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
