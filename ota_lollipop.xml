@@ -2,11 +2,11 @@
 <CyanPopOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <thea>
-            <Filename>cyanpop_thea-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_thea-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/thea/cyanpop_thea-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -20,11 +20,11 @@
 
     <Stable>
         <titan>
-            <Filename>cyanpop_titan-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_titan-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/titan/cyanpop_titan-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -38,11 +38,11 @@
 
     <Stable>
         <falcon>
-            <Filename>cyanpop_falcon-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_falcon-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/falcon/cyanpop_falcon-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/falcon/cyanpop_falcon-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -56,11 +56,11 @@
 
     <Stable>
         <peregrine>
-            <Filename>cyanpop_peregrine-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_peregrine-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/peregrine/cyanpop_peregrine-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -74,11 +74,11 @@
 
     <Stable>
         <i9300>
-            <Filename>cyanpop_i9300-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_i9300-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/i9300/cyanpop_i9300-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/i9300/cyanpop_i9300-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -92,11 +92,11 @@
 
     <Stable>
         <condor>
-            <Filename>cyanpop_condor-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_condor-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/condor/cyanpop_condor-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -110,11 +110,11 @@
 
     <Stable>
         <victara>
-            <Filename>cyanpop_victara-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_victara-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/victara/cyanpop_victara-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/victara/cyanpop_victara-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -128,11 +128,11 @@
 
     <Stable>
         <otus>
-            <Filename>cyanpop_otus-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_otus-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/otus/cyanpop_otus-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/otus/cyanpop_otus-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -146,11 +146,11 @@
 
     <Stable>
         <bacon>
-            <Filename>cyanpop_bacon-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_bacon-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/bacon/cyanpop_bacon-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/bacon/cyanpop_bacon-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -164,11 +164,11 @@
 
     <Stable>
         <onyx>
-            <Filename>cyanpop_onyx-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_onyx-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/onyx/cyanpop_onyx-MM_6.0.1-5.5-NIGHTLY-20160206.zip</RomUrl>
+                description="">https://s.basketbuild.com/uploads/devs/RolanDroid/CyanPop/onyx/cyanpop_onyx-MM_6.0.1-5.5-NIGHTLY-20160207.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
