@@ -218,15 +218,15 @@
 
     <Stable>
         <oneplus2>
-            <Filename>cyanpop_oneplus2-MM_6.0.1-5.5-NIGHTLY-20160206</Filename>
+            <Filename>cyanpop_oneplus2-MM_6.0.1-5.5-NIGHTLY-20160207</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="">https://www.androidfilehost.com/?fid=24407100847292508</RomUrl>
+                description="">https://androidfilehost.com/?fid=24407100847292708</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="">http://opengapps.org/</GappsUrl>
+                description="">http://opengapps.org/?arch=arm64&api=6.0/</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
