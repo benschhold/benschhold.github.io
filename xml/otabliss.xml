@@ -1,28 +1,51 @@
+
+
+
 <?xml version="1.0" encoding="UTF-8"?>
-<BlissOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    
+<ROM>
+	<!--ROM Name-->
+		<RomName>Blissmallow</RomName>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+		<VersionName>Bliss-v6.1-oneplus2-UNOFFICIAL-20160210-1358</VersionName>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+		<VersionNumber type="integer">20160210-1358</VersionNumber>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+		<DirectUrl>https://www.androidfilehost.com/?fid=24411628330025391</DirectUrl>
+
+	<!--Do not edit this!-->
+		<HttpUrl>BlissRoms Server</HttpUrl>
+
+	<!--BlissPop Android Version-->
+		<Android>6.0.1</Android>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
+		<CheckMD5 nil="true" />7495214540d52c43ceab9ea72f768f47</CheckMD5>
+
+	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
+	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
+		<FileSize type="integer"></FileSize>
+ 
+        <!--Maintainer Name/Last Uploader's Name-->
 
 
-    <Stable>
-        <oneplus2>
-            <Filename>Bliss-v6.1-oneplus2-UNOFFICIAL-20160210-1358</Filename>
-            <RomUrl
-                id="rom"
-                title="Download"
-                description="">https://www.androidfilehost.com/?fid=24411628330025391</RomUrl>
-            <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="">http://opengapps.org/</GappsUrl>
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="">http://forum.xda-developers.com/oneplus-2/development/rom-blisspop-t3226519</XDAUrl>
-            <DONATIONUrl
-                id="donate"
-                title="Donate to benschhold"
-                description="">http://forum.xda-developers.com/donatetome.php?u=4729623</DONATIONUrl>
-    </oneplus2>
-    </Stable>
+	<!--Official Bliss Website-->
+		<WebsiteURL>http://benschhold.github.io/</WebsiteURL>
 
-</BlissOTA>
+	<!-- Your Donate URL (Please use goo.gl to shorten to avoid CDATA requirement -
+	  Default: http://goo.gl/k6jPX9 will go to Shaun)-->
+		<DonateURL>http://forum.xda-developers.com/donatetome.php?u=4729623</DonateURL>
+
+	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
+	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
+	<Changelog>
+
+	</Changelog>
+
+	<!--Number of addons and the target addons xml. Remove both if no addons available! -->
+
+
+</ROM>
