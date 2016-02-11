@@ -10,10 +10,8 @@
 		<VersionNumber type="integer">2016021213</VersionNumber>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<RomUrl>https://www.androidfilehost.com/?fid=24411628330025391</RomUrl>
+		<HttpUrl>https://www.androidfilehost.com/?fid=24411628330025391</HttpUrl>
 
-	<!--Do not edit this!-->
-		<HttpUrl>Androidfilehost</HttpUrl>
 
 	<!--BlissPop Android Version-->
 		<Android>6.0.1</Android>
