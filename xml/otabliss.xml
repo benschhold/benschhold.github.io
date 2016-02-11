@@ -24,7 +24,7 @@
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer"></FileSize>
+		<FileSize type="integer">123456789</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
 
