@@ -9,7 +9,7 @@
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<VersionNumber type="integer">2016021213</VersionNumber>
 
-	 <DirectUrl nil="true" />
+
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<HttpUrl>https://www.androidfilehost.com/?fid=24411628330025391</HttpUrl>
 
@@ -19,11 +19,11 @@
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!-- You can disable MD5 checking like this: <CheckMD5 nil="true" />-->
-		<CheckMD5 nil="true" />
+		<!--	<CheckMD5 nil="true" />-->
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">123456789</FileSize>
+		<!--	<FileSize type="integer">123456789</FileSize>-->
  
         <!--Maintainer Name/Last Uploader's Name-->
 
