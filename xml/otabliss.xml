@@ -11,8 +11,8 @@
 
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<HttpUrl>https://www.androidfilehost.com/?fid=24411628330025391</HttpUrl>
-
+		<!--	<HttpUrl>https://www.androidfilehost.com/?fid=24411628330025391</HttpUrl> -->
+<DirectUrl>https://www.androidfilehost.com/?fid=24411628330025391</DirectUrl>
 
 	<!--BlissPop Android Version-->
 		<Android>6.0.1</Android>
