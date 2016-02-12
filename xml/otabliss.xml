@@ -43,6 +43,6 @@
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! -->
 		<AddonCount>1</AddonCount>
-		<AddonsURL>http://benschhold.github.io/xml/otabliss.xml</AddonsURL>
+		<AddonsURL>http://benschhold.github.io/xml/addon.xml</AddonsURL>
 
 </ROM>
