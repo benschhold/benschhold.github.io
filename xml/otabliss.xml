@@ -43,6 +43,6 @@
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! -->
 		<AddonCount>1</AddonCount>
-		<AddonsURL>https://www.androidfilehost.com/?fid=24415232478675446</AddonsURL>
+		<AddonsURL>http://benschhold.github.io/xml/otabliss.xml</AddonsURL>
 
 </ROM>
