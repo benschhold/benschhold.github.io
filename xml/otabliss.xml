@@ -4,15 +4,15 @@
 		<RomName>Blissmallow</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>Bliss-v6.1-oneplus2-UNOFFICIAL-20160210-1358</VersionName>
+		<VersionName>Bliss-v6.1-oneplus2-UNOFFICIAL-20160212-1016</VersionName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2016021013</VersionNumber>
+		<VersionNumber type="integer">2016021209</VersionNumber>
 
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<!--	<HttpUrl>http://qc4.androidfilehost.com/dl/_HiH3EsODFNqJrZxaV8oIQ/1455447162/24411628330025391/Bliss-v6.1-oneplus2-UNOFFICIAL-20160210-1358.zip</HttpUrl> -->
-<DirectUrl>http://qc4.androidfilehost.com/dl/_HiH3EsODFNqJrZxaV8oIQ/1455447162/24411628330025391/Bliss-v6.1-oneplus2-UNOFFICIAL-20160210-1358.zip</DirectUrl> 
+<DirectUrl>https://de1.androidfilehost.com/dl/4kbXM_fffLfwZMAqs7-iGA/1455502137/24415232478675001/Bliss-v6.1-oneplus2-UNOFFICIAL-20160212-1016.zip</DirectUrl> 
 
 	<!--BlissPop Android Version-->
 		<Android>6.0.1</Android>
