@@ -42,6 +42,7 @@
 	</Changelog>
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! -->
-
+		<!--<AddonCount>1</AddonCount>
+		<AddonsURL>http://downloads.blissroms.com/Add-ons/addons.xml</AddonsURL>-->
 
 </ROM>
