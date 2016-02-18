@@ -3,10 +3,10 @@
     <addon>
         <name>Benschhold Custom Kernel for CM 13 roms</name> <!-- The name, simples -->
         <description>Benschhold Custom Kernel for CM 13 roms</description> <!-- You can use markdown here if you want -->
-        <updated-at>2016-02-12</updated-at> <!-- Must be in yyyy-mm-dd format -->
-        <size>11607616</size> <!-- filesize in bytes -->
+        <updated-at>2016-02-18</updated-at> <!-- Must be in yyyy-mm-dd format -->
+        <size>10334046</size> <!-- filesize in bytes -->
         <download-link>
-     http://forum.xda-developers.com/devdb/project/dl/?id=16828&amp;task=get
+ http://forum.xda-developers.com/devdb/project/dl/?id=16917&amp;task=get
         </download-link>
     </addon>
 
