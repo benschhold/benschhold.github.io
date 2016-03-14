@@ -4,15 +4,15 @@
 		<RomName>Blissmallow</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>Bliss-v6.1-oneplus2-UNOFFICIAL-20160314-0910</VersionName>
+		<VersionName> Bliss-v6.1-oneplus2-UNOFFICIAL-20160314-1708</VersionName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2016031407</VersionNumber>
+		<VersionNumber type="integer">2016031417</VersionNumber>
 
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<!--	<HttpUrl>http://qc4.androidfilehost.com/dl/_HiH3EsODFNqJrZxaV8oIQ/1455447162/24411628330025391/Bliss-v6.1-oneplus2-UNOFFICIAL-20160210-1358.zip</HttpUrl> -->
-<DirectUrl>http://fr1.androidfilehost.com/dl/p1D6YGcG8MT7co3SU3KoMQ/1458174932/24459283995296302/Bliss-v6.1-oneplus2-UNOFFICIAL-20160314-0910.zip</DirectUrl> 
+<DirectUrl>http://fr1.androidfilehost.com/dl/rD9TQ4mNqfpe8X7p2Wf-aw/1458208435/24459283995296686/Bliss-v6.1-oneplus2-UNOFFICIAL-20160314-1708.zip</DirectUrl> 
 
 	<!--BlissPop Android Version-->
 		<Android>6.0.1</Android>
@@ -23,7 +23,7 @@
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">465611752</FileSize>
+		<FileSize type="integer">467453047</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
 
