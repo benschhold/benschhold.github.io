@@ -4,15 +4,15 @@
 		<RomName>Blissmallow</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>Bliss-v6.1-oneplus2-UNOFFICIAL-20160319-1039</VersionName>
+		<VersionName>Bliss-v6.2-oneplus2-UNOFFICIAL-20160323-1216</VersionName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionNumber type="integer">2016031910</VersionNumber>
+		<VersionNumber type="integer">2016032312</VersionNumber>
 
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<!--	<HttpUrl>http://qc4.androidfilehost.com/dl/_HiH3EsODFNqJrZxaV8oIQ/1455447162/24411628330025391/Bliss-v6.1-oneplus2-UNOFFICIAL-20160210-1358.zip</HttpUrl> -->
-<DirectUrl>http://fr1.androidfilehost.com/dl/6uO5PEAZvb5CtOWBzOC4Iw/1458617017/24459283995300260/Bliss-v6.1-oneplus2-UNOFFICIAL-20160319-1039.zip</DirectUrl> 
+<DirectUrl>http://fr1.androidfilehost.com/dl/dCPRW0_TGLg7-wjGN4UkEw/1458968390/24459283995303707/Bliss-v6.2-oneplus2-UNOFFICIAL-20160323-1216.zip</DirectUrl> 
 
 	<!--BlissPop Android Version-->
 		<Android>6.0.1</Android>
@@ -23,7 +23,7 @@
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 	<!--Please enter this in BYTES only. Otherwise an incorrect value will be shown-->
-		<FileSize type="integer">464274595</FileSize>
+		<FileSize type="integer">471139042</FileSize>
  
         <!--Maintainer Name/Last Uploader's Name-->
 
@@ -42,7 +42,7 @@
 	</Changelog>
 
 	<!--Number of addons and the target addons xml. Remove both if no addons available! -->
-		<AddonCount>1</AddonCount>
+		<AddonCount>0</AddonCount>
 		<AddonsURL>http://benschhold.github.io/xml/addon.xml</AddonsURL>
 
 </ROM>
